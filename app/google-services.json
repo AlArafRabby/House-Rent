@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "809649778274",
+    "firebase_url": "https://renthouse-9d2f5.firebaseio.com",
+    "project_id": "renthouse-9d2f5",
+    "storage_bucket": "renthouse-9d2f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809649778274:android:aa256d0f2e82bf1d",
+        "android_client_info": {
+          "package_name": "com.house.rent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809649778274-inun8dlea461idr4gh0jsila5fg4t5k3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.house.rent",
+            "certificate_hash": "bace7aff210ad991984dd909e7ae46dae2671429"
+          }
+        },
+        {
+          "client_id": "809649778274-u5mmlhr2vfdbaqj368u84p0lj94ikcg6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1wE_1HGnD7wo61uv87cHys4utobYtTh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809649778274-u5mmlhr2vfdbaqj368u84p0lj94ikcg6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

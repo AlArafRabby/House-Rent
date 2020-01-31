@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="Add Post"
+        android:id="@+id/action_add"
+        android:icon="@mipmap/baseline_add_white_24"
+        app:showAsAction="always"/>
+
+    <item android:title="Log Out"
+        android:id="@+id/action_logOut"
+        app:showAsAction="never"/>
+
+</menu>
